@@ -18,6 +18,13 @@ https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
 
 tcr-cli is the command line interface I developed that has all the test && (commit || revert) logic.
 
+# Usage
+
+- npm run tcr
+- Press "p" to push
+- Press "q" to quit
+- While editing files, test commit revert magic will happen.
+
 # This repo
 
 This repo is an attempt to make this TCR work in a real environment, using GIT.
